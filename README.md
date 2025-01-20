@@ -9,8 +9,8 @@
 
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/IDAGO-OG/TheDagos-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/IDAGO-OG/Dagos-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/IDAGO-OG/Dagos-Bot-MD/blob/master/config.js)
 
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
@@ -25,8 +25,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/IDAGO-OG/TheDagos-Bot-MD
-> cd TheDagos-Bot-MD
+> git clone https://github.com/IDAGO-OG/Dagos-Bot-MD
+> cd Dagos-Bot-MD
 > yarn install 
 > npm update
 > npm start
@@ -36,7 +36,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheDagos-Bot-MD
+> cd Dagos-Bot-MD
 > npm start
 ```
 
@@ -44,10 +44,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheDagos-Bot-MD
+> cd Dagos-Bot-MD
 > rm -rf session.data.json
 > npm start
 ```
 
 
-`TheDagos-Bot-MD _ By Dagos`
+### `TheDagos-Bot-MD ~ By Dagos`
