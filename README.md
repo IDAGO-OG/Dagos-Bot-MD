@@ -1,7 +1,6 @@
 # `🧿 The Dagos - 𝙱𝚘𝚝 🔮`
 
-<p align="center"> 
-<a href="https://github.com/IDAGO-OG/Dagos-Bot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=The-Dagos-Bot++🐈‍⬛;Hola!!+Bienvenido+a+este+repositorio+🐈‍⬛.+" height="160px"></alt="DagosBot-MD" style="width: 100%; height: auto; max-width: 500px;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+serif&size=25&letterSpacing=Normal&pause=1000&color=3EC8C4&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&height=100&lines=HOLA!!+BIENVENIDO+A+DAGO'S+BOT+%F0%9F%90%88%E2%80%8D%E2%AC%9B;GRACIAS+POR+VISITARME%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" /></a>
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/584121275155" target="blank"><img src="https://img.shields.io/badge/IDAGO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
@@ -53,4 +52,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 
-### `TheDagos-Bot-MD ~ By Dagos`
+## `TheDagos-Bot-MD ~ By Dagos`
