@@ -1,4 +1,4 @@
-### `☆▪︎▪︎ The Dagos - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
+# `☆▪︎▪︎ The Dagos - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
 <a href="https://github.com/IDAGO-OG/Dagos-Bot-MD"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&letterSpacing=-1xp;&pause=1000&color=F76B1C&center=FALSO&vCenter=FALSO&multiline=true&repeat=verdadero&random=FALSO&height=70&lines=BIENVENIDO+A+DAGO'S+BOT+%F0%9F%90%88%E2%80%8D%E2%AC%9B;GRACIAS+POR+VISITARME+%E2%99%A1" alt="Typing SVG" /></a>
 
