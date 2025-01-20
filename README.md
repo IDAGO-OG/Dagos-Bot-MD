@@ -1,7 +1,7 @@
 # `🧿 The Dagos - 𝙱𝚘𝚝 🔮`
 
 <p align="center"> 
-<a href="https://github.com/IDAGO-OG/Dagos-Bot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=The-Dagos-Bot+🐈‍⬛+%F0%9F%90%88;Hola!!+Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="160px"></alt="DagosBot-MD" style="width: 100%; height: auto; max-width: 500px;">
+<a href="https://github.com/IDAGO-OG/Dagos-Bot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=The-Dagos-Bot++🐈‍⬛;Hola!!+Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="160px"></alt="DagosBot-MD" style="width: 100%; height: auto; max-width: 500px;">
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/584121275155" target="blank"><img src="https://img.shields.io/badge/IDAGO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
