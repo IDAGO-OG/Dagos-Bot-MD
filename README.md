@@ -7,48 +7,48 @@
 
 
 ### `▪︎▪︎▪︎☆ AJUSTES ☆▪︎▪︎▪︎`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/IDAGO-OG/Dagos-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/IDAGO-OG/Dagos-Bot-MD/blob/master/config.js)
+▪︎▪︎ CLONAR EL REPOSITORIO ☆ [Aqui](https://github.com/IDAGO-OG/Dagos-Bot-MD/fork)
+▪︎▪︎ CAMBIAR NÚMERO DEL OWNER ☆ [Aqui](https://github.com/IDAGO-OG/Dagos-Bot-MD/blob/master/config.js)
 
 
 ### `▪︎▪︎▪︎☆ ACTIVAR EN TERMUX ☆▪︎▪︎▪︎`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd
-> termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/IDAGO-OG/Dagos-Bot-MD
-> cd Dagos-Bot-MD
-> yarn install 
-> npm update
-> npm start
+▪︎ cd
+▪︎ termux-setup-storage
+▪︎ apt update 
+▪︎ pkg upgrade 
+▪︎ pkg install git -y
+▪︎ pkg install nodejs -y
+▪︎ pkg install ffmpeg -y
+▪︎ pkg install imagemagick -y
+▪︎ pkg install yarn
+▪︎ git clone https://github.com/IDAGO-OG/Dagos-Bot-MD
+▪︎ cd Dagos-Bot-MD
+▪︎ yarn install 
+▪︎ npm update
+▪︎ npm start
 ```
 
 ### `▪︎▪︎☆ ACTIVAR EN CASO DE DETENERSE ☆▪︎▪︎`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Dagos-Bot-MD
-> npm start
+▪︎ cd 
+▪︎ cd Dagos-Bot-MD
+▪︎ npm start
 ```
 
 ### `▪︎▪︎☆ OBTENER OTRO CODIGO QR ☆▪︎▪︎`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Dagos-Bot-MD
-> rm -rf session.data.json
-> npm start
+▪︎ cd 
+▪︎ cd Dagos-Bot-MD
+▪︎ rm -rf session.data.json
+▪︎ npm start
 ```
 ### `▪︎▪︎☆ DESARROLLADOR ☆▪︎▪︎`
 <a href="httpshttps://github.com/IDAGO-OG/Dagos-Bot-MD/graphs/contributors">
 <img src="https://github.com/IDAGO-OG/Dagos-Bot-MD/blob/master/5406a866d98d11e1f288db49710be550.jpg" /> 
 </a>
 
-## `TheDagos-Bot-MD ~ By Dagos`
+#### `TheDagos-Bot-MD ~ By Dagos`
