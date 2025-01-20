@@ -3,7 +3,7 @@
 ## '<a href="https://github.com/IDAGO-OG/Dagos-Bot-MD"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&letterSpacing=-1xp;&pause=1000&color=F76B1C&center=FALSO&vCenter=FALSO&multiline=true&repeat=verdadero&random=FALSO&height=70&lines=BIENVENIDO+A+DAGO'S+BOT+%F0%9F%90%88%E2%80%8D%E2%AC%9B;GRACIAS+POR+VISITARME+%E2%99%A1" alt="Typing SVG" /></a>'
 
 ### `▪︎▪︎▪︎ 🦦 Algun Problema Con El Bot? Contactame 🦦 ▪︎▪︎▪︎`
-<a href="http://wa.me/584121275155" target="blank"><img src="https://img.shields.io/badge/IDAGO_O_CREADOR-20D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+<a href="http://wa.me/584121275155" target="blank"><img src="https://img.shields.io/badge/IDAGO_OG_CREADOR-20D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
 
 
 ### `▪︎▪︎▪︎☆ AJUSTES ☆▪︎▪︎▪︎`
